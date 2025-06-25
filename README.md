@@ -1,4 +1,4 @@
-💼 Mehvish Abbas – Developer Portfolio
+# 💼 Mehvish Abbas – Developer Portfolio
 
 Welcome to my personal portfolio website! This site showcases my projects, skills, experience, and educational background as a Computer Science student 
 with a focus on AI, ML, and frontend development.
@@ -38,16 +38,16 @@ Lucide Icons
 ______
 
 📦 Installation & Setup
-# 1. Clone the repo
+1. Clone the repo
 git clone https://github.com/your-username/your-repo-name.git
 
-# 2. Navigate into the directory
+2. Navigate into the directory
 cd your-repo-name
 
-# 3. Install dependencies
+3. Install dependencies
 npm install
 
-# 4. Start the development server
+4. Start the development server
 npm run dev
 _______
 

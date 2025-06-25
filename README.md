@@ -5,39 +5,63 @@ with a focus on AI, ML, and frontend development.
 
 🔗 https://mehvish282.github.io/Portfolio-Website/
 
-📁 Project Structure
+# 📁 Project Structure
 
 ├── public/
+
 ├── src/
-│   ├── assets/            # Images and icons
+
+│   ├── assets/                  # Images and icons
+
 │   ├── components/        # Reusable UI components
+
 │   ├── sections/          # Website sections like Hero, About, Contact, etc.
+
 │   ├── styles/            # Global and utility styles
+
 │   └── App.tsx            # Main App component
+
 ├── index.html
+
 ├── tailwind.config.js
+
 ├── package.json
+
 └── README.md
+
+└── LICENSE
 ______
 
-~ Features
-⚡ Smooth scrolling & animations with framer-motion
-🎨 Responsive design with Tailwind CSS
-🧠 AI/ML project section
-💬 Contact form (UI only)
-🌐 Social links integration (LinkedIn, GitHub, Email)
-📱 Mobile-friendly layout
+# 🚀 Features
+
+- Smooth scrolling & animations with framer-motion
+
+- Responsive design with Tailwind CSS
+
+- AI/ML project section
+
+- Contact form (UI only)
+
+- Social links integration (LinkedIn, GitHub, Email)
+
+- Mobile-friendly layout
 _____
 
-🛠️ Built With
-React.js
-TypeScript
-Tailwind CSS
-Framer Motion
-Lucide Icons
+# 🛠️ Built With
+
+- React.js
+
+- TypeScript
+
+- Tailwind CSS
+
+- Framer Motion
+
+- Lucide Icons
 ______
 
-📦 Installation & Setup
+# 📦 Installation & Setup
+
 1. Clone the repo
 git clone https://github.com/your-username/your-repo-name.git
 
@@ -51,35 +75,50 @@ npm install
 npm run dev
 _______
 
-📤 Deployment (GitHub Pages)
+# 📤 Deployment (GitHub Pages)
 
 Install the gh-pages package:
+
 npm install --save-dev gh-pages
+
 Add the following to package.json:
+
 "homepage": "https://your-username.github.io/your-repo-name",
+
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 }
+
 Run the deploy command:
+
 npm run deploy
 _______
 
-👩‍💻 About Me
-I'm Mehvish Abbas, a passionate CS student focused on AI, Machine Learning, and modern frontend development. Always eager to learn, build, 
+# 👩‍💻 About Me
+
+I'm Mehvish Abbas, a passionate CS student focused on AI, Machine Learning, and modern frontend development. Always eager to learn, build,
+
 and create meaningful digital experiences.
 
-📫 Contact
+# 📫 Contact
+
 📧 Email: mehwishabbas282@gmail.com
+
 💼 LinkedIn: Mehvish Abbas
+
 💻 GitHub: Mehvish282
 ________ 
 
-🌟 Credits
+# 🌟 Credits
+
 UI/UX inspired by modern developer portfolio trends
+
 Open-source icons from Lucide
+
 Animations via Framer Motion
 _________
 
-📃 License
+# 📃 License
+
 This project is open-source and free to use under the MIT License.
